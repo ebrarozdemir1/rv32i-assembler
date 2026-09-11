@@ -1,0 +1,8 @@
+# Compiled executable
+assembler
+
+# Object files
+*.o
+
+# Debug files
+*.dSYM/
